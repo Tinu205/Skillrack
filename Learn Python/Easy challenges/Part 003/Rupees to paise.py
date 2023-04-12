@@ -1,0 +1,5 @@
+a = input()
+seperated = list(a)
+seperated.remove(".")
+val = "".join(seperated)
+print(int(val))
