@@ -15,4 +15,3 @@ int main(){
         printf("%d",abs(num1-num2));
     }
 }
-//incomplete
